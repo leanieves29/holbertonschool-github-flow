@@ -7,3 +7,4 @@ This documentation project is used to practice collaborative workflows with Git 
 The goal of this project is to provide a small but realistic set of documents that multiple people can edit at the same time. Each change is made on a separate feature branch, discussed in a pull request, and merged only after review.
 
 This introduction has been updated as part of collaborative work.
+This introduction has been updated as part of collaborative work.
